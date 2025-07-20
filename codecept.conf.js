@@ -14,7 +14,7 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://mojoauth.com/products/email-otp/',
+      url: 'https:///* sample otp flow url here */',
       show: true,
       waitForTimeout: 5000
     }
